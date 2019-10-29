@@ -1,19 +1,19 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "FIXME"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
-country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
-language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "45"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-1"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["FIXME"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+venue: "UF Informatics Institute"
+address: "432 Newell Dr, Gainesville, FL 32603"
+country: "us"
+language: "en"
+latitude: "29.648292"
+longitude: "-82.344092"
+humandate: "Nov 14-15, 2019"
+humantime: "9:00 am - 4:30 pm"
+startdate: 2019-11-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-11-15        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Carla Mavian", "Taylor Paisie", "Massimiliano Tagliamonte", "TBD"]
+helper: ["TBD"]
+email: ["cmavian@ufl.edu", "tpaisie@ufl.edu", "mstagliamonte@ufl.edu"]
+collaborative_notes:  https://pad.carpentries.org/2019-11-14-uf-genomics
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -72,6 +72,21 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2>Registration</h2>
+
+<p>
+  Space is limited to 24 participants for this workshop
+  and registration is required. A fee of $46.00 will
+  be charged and lunch will be provided both days.
+  Please plan on attending the entire time for both days.
+  You can register in UF's conference system here:
+</p>
+
+<p><strong>
+  We expect to open registration for this workshop on Monday, 10/31/2019.
+  <-- <a href="http://reg.conferences.dce.ufl.edu/SSP/1400074592">Register Now</a> -->
+  <!-- Registration is now full -->
+</strong></p>
 
 <h2 id="general">General Information</h2>
 
