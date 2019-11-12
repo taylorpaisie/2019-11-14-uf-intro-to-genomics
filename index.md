@@ -10,9 +10,9 @@ humandate: "Nov 14-15, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-11-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-11-15        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Carla Mavian", "Taylor Paisie", "Massimiliano Tagliamonte", "TBD"]
-helper: ["TBD"]
-email: ["cmavian@ufl.edu", "tpaisie@ufl.edu", "mstagliamonte@ufl.edu"]
+instructor: ["Carla Mavian", "Taylor Paisie", "Massimiliano Tagliamonte", "Dan Stribling"]
+helper: ["Narayani Barve", "Dimitri Bourilkov", "Ricardo Alcala", "Mel Moreno", "Caroline Storer"]
+email: ["cmavian@ufl.edu", "tpaisie@ufl.edu", "mstagliamonte@ufl.edu", "ds@ufl.edu"]
 collaborative_notes:  https://pad.carpentries.org/2019-11-14-uf-genomics
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
